@@ -30,3 +30,6 @@ After the first week of class (installation/setup/intro), please come to class w
 6. Start jupyter notebook
     - ```jupyter notebook```
 
+---
+# Cheat Sheet Link
+https://gcta-python.github.io/GCTA-Python-Intro/static/PythonCheatSheet/index.html
